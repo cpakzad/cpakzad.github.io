@@ -21,11 +21,9 @@ author: Cambyse Pakzad
 
 navbar-links:
   About Me: "About Me"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  Research: "Research"
+  Teaching: "Teaching"
+  
 ################
 # --- Logo --- #
 ################

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-full-width: true
+full-width: false
 ---
 # Topics: Extremes & Dependence
 

@@ -2,7 +2,7 @@
 layout: page
 title: Research
 ---
-# Research topics: Extremes & Dependence
+# Topics: Extremes & Dependence
 
 - High dimensional statistics: independence testing; empirical processes; functional statistics.
 - Risk modelling: semi-parametric estimation of functional extreme multivariate risk measure.

@@ -2,6 +2,12 @@
 layout: page
 title: Research
 ---
+# Research topics: Extremes & Dependence
+
+- High dimensional statistics: independence testing; empirical processes; functional statistics.
+- Risk modelling: semi-parametric estimation of functional extreme multivariate risk measure.
+- Random matrices theory: extreme eigenvalues; phase transitions (Tracy-Widom/Gumbel); large deviations principle.
+
 # Publications
 
 - E. Di Bernardino, T. Laloë and C. Pakzad (2023). *Estimation of extreme L1-multivariate expectiles with functional covariates*. Preprint [arXiv:2303.16848](https://arxiv.org/pdf/2303.16848.pdf)

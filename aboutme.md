@@ -3,6 +3,5 @@ layout: page
 title: About me
 ---
 
-Postdoctoral fellowship at <a href="https://www.inria.fr/fr/statify">Team Statify</a>, Inria Grenoble, France, with <a href ="https://mistis.inrialpes.fr/people/girard/">Stéphane Girard</a>.
-
+Postdoctoral fellowship at [Team Statify](https://www.inria.fr/fr/statify), Inria Grenoble, France, with [Stéphane Girard](https://mistis.inrialpes.fr/people/girard/).
 

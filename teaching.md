@@ -6,7 +6,7 @@ full-width: false
 
 ### Tutorials in Mathematics at Université Côte d'Azur (UCA), Nice, France. 2022-2023
 - Calculus & Linear algebra, L1 ~ 1st year of a Bachelor's degree.
-- Elementary Probability & Statistics, L2 éco ~ 2nd year of a Bachelor's degree (economic).
+- Probability & Statistics, L2 éco ~ 2nd year of a Bachelor's degree (economics).
 
 ### Tutorials in Mathematics at University Paris-Descartes (Paris 5), Paris, France. 2018-2019
 - Mathematics & Calculus, L1 ~ 1st year of a Bachelor's degree.

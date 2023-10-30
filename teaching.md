@@ -15,6 +15,6 @@ full-width: false
 - Advanced Probability, M1 ~ 1st year of a Master's degree.
 
 ### Tutorials in Mathematics at École Nationale de la Statistique et de l'Administration (ENSAE), Palaiseau, France. 2014-2018
-- Real Analysis & Fourier Analysis, L2.
+- Real Analysis & Fourier Analysis, L3 éco.
 - Functional & Convex Analysis, L3/M1. 
 - Probability Theory, L3.

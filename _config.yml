@@ -47,7 +47,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "cambyse.pakzad at gmail.com"
+  email: "cambyse dot pakzad at gmail dot com"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
 #  medium: yourname
 #  reddit: yourname
@@ -112,7 +112,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "cambyse,pakzad,cambyse pakzad,cpakzad"
 
 ######################################
 # --- Colours / background image --- #

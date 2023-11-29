@@ -19,6 +19,7 @@ full-width: false
 
 ## Conferences and Seminars
 
+- Seminar talk at Université Claude Bernard (Lyon 1), ISFA. Nov 17, 2023.
 - JDS22 Conference: 53èmes Journées de Statistique de la SFdS at Université Claude Bernard Lyon 1, France. Oral presentation of 15 minutes. June 13-17, 2022.
 - Journées de Statistique du Sud at Université d'Avignon, France. June 1-3, 2022.
 - Oberseminar 'Spezielle Stochastische Probleme' at University Heinrich-Heine of Düsseldorf (HHU), Germany. Online presentation of 1 hour. May 4, 2022. 

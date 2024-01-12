@@ -12,8 +12,8 @@ full-width: false
 ## Publications
 
 - A. Bücher and C. Pakzad (2022). *Testing for independence in high dimensions based on empirical copulas*. Accepted - Annals of Statistics. [arXiv:2204.01803](https://arxiv.org/pdf/2204.01803.pdf)
-- E. Di Bernardino, T. Laloë and C. Pakzad (2023). *Estimation of extreme L1-multivariate expectiles with functional covariates*. Accepted - Journal of Multivariate Analysis [arXiv:2303.16848](https://arxiv.org/pdf/2303.16848.pdf)
-- C. Pakzad (2019). *Poisson statistics at the edge of Gaussian beta-ensembles at high temperature*. ALEA Lat. Am. J. Probab. Math. Stat. 16. 871–897. DOI: [10.30757/alea.v16-32](https://arxiv.org/pdf/1804.08214.pdf)
+- E. Di Bernardino, T. Laloë and C. Pakzad (2023). *Estimation of extreme L1-multivariate expectiles with functional covariates*. Journal of Multivariate Analysis. DOI: [0.1016/j.jmva.2023.105292](https://www.sciencedirect.com/science/article/pii/S0047259X23001380)
+- C. Pakzad (2019). *Poisson statistics at the edge of Gaussian beta-ensembles at high temperature*. ALEA Lat. Am. J. Probab. Math. Stat. DOI: [10.30757/alea.v16-32](https://arxiv.org/pdf/1804.08214.pdf)
 - C. Pakzad (2019). *Large Deviations Principle for the Largest Eigenvalue of the Gaussian beta-Ensemble at High Temperature*. Journal of Theoretical Probability. DOI: [10.1007/s10959-019-00882-4](https://arxiv.org/pdf/1806.07651.pdf)
 - C. Pakzad (2019). *Extremes of Chi triangular array from the Gaussian beta-Ensemble at high temperature*. Preprint [arXiv:1903.02103](https://arxiv.org/pdf/1903.02103.pdf)
 

@@ -6,8 +6,8 @@ full-width: false
 ## Topics: Extremes & Dependence
 
 - High dimensional statistics: independence testing; empirical processes; functional statistics.
-- Risk modelling: semi-parametric estimation of functional extreme multivariate risk measure.
-- Random matrices theory: extreme eigenvalues; phase transitions (Tracy-Widom/Gumbel); large deviations principle.
+- Risk modelling in the multivariate framework.
+- Random matrices theory: extreme eigenvalues; phase transitions (Tracy-Widom/Gumbel).
 
 ## Publications
 

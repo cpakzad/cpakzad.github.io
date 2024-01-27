@@ -3,13 +3,11 @@ layout: page
 title: Research
 full-width: false
 ---
-## Topics: Extremes & Dependence
 
-- High dimensional statistics: independence testing; empirical processes; functional statistics.
-- Risk modelling in the multivariate framework.
-- Random matrices theory: extreme eigenvalues; phase transitions (Tracy-Widom/Gumbel).
+ ![Venn](/Venn_2_05_image.png) 
 
-## Publications
+
+## Scientific articles
 
 - A. Bücher and C. Pakzad (2022). *Testing for independence in high dimensions based on empirical copulas*. Accepted - Annals of Statistics. [arXiv:2204.01803](https://arxiv.org/pdf/2204.01803.pdf)
 - E. Di Bernardino, T. Laloë and C. Pakzad (2023). *Estimation of extreme L1-multivariate expectiles with functional covariates*. Journal of Multivariate Analysis. DOI: [0.1016/j.jmva.2023.105292](https://www.sciencedirect.com/science/article/pii/S0047259X23001380)

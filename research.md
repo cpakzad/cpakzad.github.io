@@ -4,7 +4,7 @@ title: Research
 full-width: false
 ---
 
- ![Venn](/Venn_2_05_image.png) 
+ {:style="text-align:center;"}![Venn](/Venn_2_05_image.png)
 
 
 ## Scientific articles

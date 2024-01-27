@@ -27,6 +27,10 @@ navbar-links:
 # --- Logo --- #
 ################
 
+url: 'https://cpakzad.github.io/' # your main domain
+baseurl: '' # if you're using custom domain keep this blank example: baseurl: ''
+
+
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
 avatar: "cambyse2.jpg"

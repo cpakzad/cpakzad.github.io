@@ -9,7 +9,7 @@ full-width: false
 
 ## Scientific articles
 - S. Girard and C. Pakzad (2024). *Functional Extreme Partial Least-Squares*. Preprint. Code in Python (Jupyter notebook) available [here](https://cpakzad.github.io/download/FEPLS.zip).
-- A. Bücher and C. Pakzad (2022). *Testing for independence in high dimensions based on empirical copulas*. Accepted - Annals of Statistics. [arXiv:2204.01803](https://arxiv.org/pdf/2204.01803.pdf)
+- A. Bücher and C. Pakzad (2022). *Testing for independence in high dimensions based on empirical copulas*. Accepted - Annals of Statistics. [arXiv:2204.01803](https://arxiv.org/pdf/2204.01803.pdf) Code in Python (Jupyter notebook) available [here](https://cpakzad.github.io/download/Independence_test.zip).
 - E. Di Bernardino, T. Laloë and C. Pakzad (2023). *Estimation of extreme L1-multivariate expectiles with functional covariates*. Journal of Multivariate Analysis. DOI: [0.1016/j.jmva.2023.105292](https://www.sciencedirect.com/science/article/pii/S0047259X23001380)
 - C. Pakzad (2019). *Poisson statistics at the edge of Gaussian beta-ensembles at high temperature*. ALEA Lat. Am. J. Probab. Math. Stat. DOI: [10.30757/alea.v16-32](https://arxiv.org/pdf/1804.08214.pdf)
 - C. Pakzad (2019). *Large Deviations Principle for the Largest Eigenvalue of the Gaussian beta-Ensemble at High Temperature*. Journal of Theoretical Probability. DOI: [10.1007/s10959-019-00882-4](https://arxiv.org/pdf/1806.07651.pdf)

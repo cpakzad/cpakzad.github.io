@@ -5,7 +5,7 @@ full-width: false
 ---
 
 ### Tutorials in Mathematics at Université Côte d'Azur (UCA), Nice, France. 2022-2023
-- Probability & Statistics - 21h.  Professor [Raphaël Chétrite](https://sites.google.com/site/pagewebraphael2) (Ljad, Nice). 2nd year of a Bachelor's degree (economics).
+- Probability & Statistics - 21h.  Professor [Raphaël Chétrite](https://sites.google.com/site/pagewebraphael2) (Ljad, Nice). 2nd year of a Bachelor's degree, economics (L1).
 - Foundations of mathematics II (Algebra) - 24h. Professor [Philippe Maisonobe](https://math.univ-cotedazur.fr/~phm/) (Ljad, Nice). 1st year of a Bachelor's degree (L1).
 
 ### Tutorials in Mathematics at Université Paris-Cité, UFR Maths-info. 2018-2019

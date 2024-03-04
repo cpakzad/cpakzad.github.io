@@ -15,6 +15,6 @@ full-width: false
 - Mathematics & Calculus - 90h. Professor [Marcela Szopos](https://helios2.mi.parisdescartes.fr/~mszoposh/) (Université Paris-Cité). 1st year of a Bachelor's degree (L1).
 
 ### Tutorials in Mathematics at École Nationale de la Statistique et de l'Administration (ENSAE), Palaiseau, France. 2015-2018
-- Functional and convex Analysis - 27h. Professor \href{https://shirikyan.u-cergy.fr/}{Armen Shirikyan} (Cergy Paris Université). 1st year (Maths prom. equivalent to L3/M1). [Material](https://shirikyan.u-cergy.fr/analysefonctionnelleconvexe.pdf).
-- Topology and Analysis -  27h. Professor \href{https://sites.google.com/site/nmariemath/home}{Nicolas Marie} (Université Paris-Nanterre). 1st year (Eco. prom. equivalent to L3). [Material](https://drive.google.com/file/d/1psrLDaSS0LEyibLZ7ITF6jVLMDxa37MY/view). 
+- Functional and convex Analysis - 27h. Professor [Armen Shirikyan](https://shirikyan.u-cergy.fr/) (Cergy Paris Université). 1st year (Maths prom. equivalent to L3/M1). [Material](https://shirikyan.u-cergy.fr/analysefonctionnelleconvexe.pdf).
+- Topology and Analysis -  27h. Professor [Nicolas Marie](https://sites.google.com/site/nmariemath/home) (Université Paris-Nanterre). 1st year (Eco. prom. equivalent to L3). [Material](https://drive.google.com/file/d/1psrLDaSS0LEyibLZ7ITF6jVLMDxa37MY/view). 
 - Probability Theory - 28.5h. Professor Sandie Souchet (Univ. Paris 1). 1st year (both prom. equivalent to L3). 

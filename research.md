@@ -17,6 +17,7 @@ full-width: false
 
 ## Conferences and Seminars
 
+- Seminar talk at Université Gustave Eiffel, LAMA. March 28, 2024.
 - Seminar talk at Université d'Aix-Marseille, I2M. Jan 29, 2024.
 - Seminar talk at Université de Toulouse, IMT. Dec 5, 2023.  
 - Seminar talk at Université Grenoble-Alpes, LJK. Nov 30, 2023. 

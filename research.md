@@ -8,7 +8,7 @@ full-width: false
 
 
 ## Scientific articles
-- S. Girard and C. Pakzad (2024). *Functional Extreme Partial Least-Squares*. Preprint [hal-04488561](https://inria.hal.science/hal-04488561). Code in Python (Jupyter notebook) available [here](https://).
+- S. Girard and C. Pakzad (2024). *Functional Extreme Partial Least-Squares*. Preprint [hal-04488561](https://inria.hal.science/hal-04488561). Code in Python (Jupyter notebook) available [here]().
 - A. Bücher and C. Pakzad (2024). *Testing for independence in high dimensions based on empirical copulas*. The Annals of Statistics. DOI: [10.1214/23-AOS2348](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-1/Testing-for-independence-in-high-dimensions-based-on-empirical-copulas/10.1214/23-AOS2348.short). Code in Python (Jupyter notebook) available [here](https://cpakzad.github.io/download/Independence_Test.zip).
 - E. Di Bernardino, T. Laloë and C. Pakzad (2023). *Estimation of extreme L1-multivariate expectiles with functional covariates*. Journal of Multivariate Analysis. DOI: [0.1016/j.jmva.2023.105292](https://www.sciencedirect.com/science/article/pii/S0047259X23001380)
 - C. Pakzad (2019). *Poisson statistics at the edge of Gaussian beta-ensembles at high temperature*. ALEA Lat. Am. J. Probab. Math. Stat. DOI: [10.30757/alea.v16-32](https://arxiv.org/pdf/1804.08214.pdf)

@@ -8,8 +8,8 @@ full-width: false
 
 
 ## Scientific articles
+- S. Girard and C. Pakzad (2024). *Functional Extreme Partial Least-Squares*. Preprint [arXiv:2410.05517](https://arxiv.org/pdf/2410.05517). Code in Python (Jupyter notebook) available [here]().
 - A. Bücher and C. Pakzad (2024). *The empirical copula process in high dimensions: Stute's representation and applications*. Preprint [arXiv:2405.05597](https://arxiv.org/pdf/2405.05597.pdf).
-- S. Girard and C. Pakzad (2024). *Functional Extreme Partial Least-Squares*. Preprint [hal-04488561](https://inria.hal.science/hal-04488561). Code in Python (Jupyter notebook) available [here]().
 - A. Bücher and C. Pakzad (2024). *Testing for independence in high dimensions based on empirical copulas*. The Annals of Statistics. DOI: [10.1214/23-AOS2348](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-1/Testing-for-independence-in-high-dimensions-based-on-empirical-copulas/10.1214/23-AOS2348.short). Code in Python (Jupyter notebook) available [here](https://cpakzad.github.io/download/Independence_Test.zip).
 - E. Di Bernardino, T. Laloë and C. Pakzad (2024). *Estimation of extreme L1-multivariate expectiles with functional covariates*. Journal of Multivariate Analysis. DOI: [0.1016/j.jmva.2023.105292](https://www.sciencedirect.com/science/article/pii/S0047259X23001380)
 - C. Pakzad (2019). *Poisson statistics at the edge of Gaussian beta-ensembles at high temperature*. ALEA Lat. Am. J. Probab. Math. Stat. DOI: [10.30757/alea.v16-32](https://alea.impa.br/articles/v16/16-32.pdf)
@@ -17,7 +17,8 @@ full-width: false
 - C. Pakzad (2019). *Extremes of Chi triangular array from the Gaussian beta-Ensemble at high temperature*. Preprint [arXiv:1903.02103](https://arxiv.org/pdf/1903.02103.pdf)
 
 ## Conferences and Seminars
-
+- Oral presentation at Bernoulli-ims '11th World Congress in Probability and Statistics', August 12-16, 2024 - Bochum, Germany.
+- Oral presentation at Journées de Statistique 2024 (JDS2024), May 27-31 - Bordeaux, France.
 - Seminar talk at Université Gustave Eiffel, LAMA. March 28, 2024.
 - Seminar talk at Université d'Aix-Marseille, I2M. Jan 29, 2024.
 - Seminar talk at Université de Toulouse, IMT. Dec 5, 2023.  

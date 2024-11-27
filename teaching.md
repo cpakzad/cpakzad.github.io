@@ -4,6 +4,10 @@ title: Teaching
 full-width: false
 ---
 
+### Tutorials in Mathematics at Université Paris-Nanterre (Paris 10), Nanterre, France. 2024-2025
+- Statistics applied to Management - 36h.  Professor [Emilie Lebarbier](https://www.parisnanterre.fr/mme-emilie-lebarbier) (Modal'X, Nanterre). 3rd year of a Bachelor's degree, management (L3).
+- Linear Algebra - 48h. Professor [Xavier Mary](https://xmary.perso.math.cnrs.fr/) (Modal'X, Nanterre). 2nd year of a Bachelor's degree (L2), economics.
+
 ### Tutorials in Mathematics at Université Côte d'Azur (UCA), Nice, France. 2022-2023
 - Probability & Statistics - 21h.  Professor [Raphaël Chétrite](https://sites.google.com/site/pagewebraphael2) (Ljad, Nice). 2nd year of a Bachelor's degree, economics (L1).
 - Foundations of mathematics (Algebra) - 24h. Professor [Philippe Maisonobe](https://math.univ-cotedazur.fr/~phm/) (Ljad, Nice). 1st year of a Bachelor's degree (L1).

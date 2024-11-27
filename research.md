@@ -17,6 +17,7 @@ full-width: false
 - C. Pakzad (2019). *Extremes of Chi triangular array from the Gaussian beta-Ensemble at high temperature*. Preprint [arXiv:1903.02103](https://arxiv.org/pdf/1903.02103.pdf)
 
 ## Conferences and Seminars
+- Seminar talk (invited) at Université de Rennes, IRMAR. Nov 27, 2024.
 - Oral presentation at Bernoulli-ims '11th World Congress in Probability and Statistics', August 12-16, 2024 - Bochum, Germany.
 - Oral presentation at Journées de Statistique 2024 (JDS2024), May 27-31 - Bordeaux, France.
 - Seminar talk at Université Gustave Eiffel, LAMA. March 28, 2024.

@@ -20,7 +20,8 @@ full-width: false
 - Seminar talk (invited) at Université de Rennes, IRMAR. Nov 27, 2024.
 - Seminar talk at Université Paris 10, MODAL'X. Sept 19, 2024.
 - Oral presentation and Chairman of a session at Bernoulli-ims '11th World Congress in Probability and Statistics', August 12-16, 2024 - Bochum, Germany.
-- Oral presentation at Journées de Statistique 2024 (JDS2024), May 27-31 - Bordeaux, France.
+- Oral presentation (invited) at ISNPS 2024, June 25-29, 2024 - Braga, Portugal.
+- Oral presentation at Journées de Statistique 2024 (JDS2024), May 27-31, 2024 - Bordeaux, France.
 - Seminar talk at Université Gustave Eiffel, LAMA. March 28, 2024.
 - Seminar talk at Université d'Aix-Marseille, I2M. Jan 29, 2024.
 - Seminar talk at Université de Toulouse, IMT. Dec 5, 2023.  

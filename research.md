@@ -19,8 +19,8 @@ full-width: false
 ## Conferences and Seminars
 - Seminar talk (invited) at Université de Rennes, IRMAR. Nov 27, 2024.
 - Seminar talk at Université Paris 10, MODAL'X. Sept 19, 2024.
-- Oral presentation and Chairman of a session at Bernoulli-ims '11th World Congress in Probability and Statistics', August 12-16, 2024 - Bochum, Germany.
-- Oral presentation (invited) at ISNPS 2024, June 25-29, 2024 - Braga, Portugal.
+- Oral presentation and Chairman of a session at Bernoulli-ims '11th World Congress in Probability and Statistics', August 12-16, 2024 - Bochum, Germany. Slides availables [here](https://cpakzad.github.io/download/Beamer_IndepTest.pdf).
+- Oral presentation (invited) at ISNPS 2024, June 25-29, 2024 - Braga, Portugal. Slides availables [here](https://cpakzad.github.io/download/Beamer_FEPLS_Braga.pdf).
 - Oral presentation at Journées de Statistique 2024 (JDS2024), May 27-31, 2024 - Bordeaux, France.
 - Seminar talk at Université Gustave Eiffel, LAMA. March 28, 2024.
 - Seminar talk at Université d'Aix-Marseille, I2M. Jan 29, 2024.

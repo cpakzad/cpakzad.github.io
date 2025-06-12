@@ -6,7 +6,7 @@ full-width: false
 
 ![Venn](/Venn_2_05_image.png)
 
-
+ 
 ## Scientific articles
 - S. Girard and C. Pakzad (2024). *Functional Extreme Partial Least-Squares*. Preprint [arXiv:2410.05517](https://arxiv.org/pdf/2410.05517). Code in Python (Jupyter notebook) available [here](https://cpakzad.github.io/download/FEPLS.zip).
 - A. Bücher and C. Pakzad (2024). *The empirical copula process in high dimensions: Stute's representation and applications*. Accepted for publication in Annals of Statistics [arXiv:2405.05597](https://arxiv.org/pdf/2405.05597.pdf).

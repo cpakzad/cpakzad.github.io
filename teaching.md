@@ -23,10 +23,10 @@ full-width: false
 - Tutorials - Foundations of mathematics (Algebra) - 24h. Professor [Philippe Maisonobe](https://math.univ-cotedazur.fr/~phm/) (Ljad, Nice). 1st year of a Bachelor's degree (L1).
 
 ### Mathematics at Université Paris-Cité, UFR Maths-info. 2018-2019
-- Tutorials - Advanced Probability - 30h. Professor [Eric Luçon](https://ericluconmath.wordpress.com/) (Université Paris-Cité). 1st year of a Master's degree (M1).
-- Tutorials - Probability Theory - 30h. Professor Thierry Cabanal-Duvillard (Université Paris-Cité). 3rd year of a Bachelor's degree (L3).
-- Tutorials - Analysis - 42h. Professor [Eric Luçon](https://ericluconmath.wordpress.com/) (Université Paris-Cité). 2nd year of a Bachelor's degree (L2).
-- Tutorials - Mathematics & Calculus - 90h. Professor [Marcela Szopos](https://helios2.mi.parisdescartes.fr/~mszoposh/) (Université Paris-Cité). 1st year of a Bachelor's degree (L1).
+- Tutorials - Advanced Probability - 30h. Professor [Eric Luçon](https://ericluconmath.wordpress.com/) (ex-Université Paris-Cité, now Université d'Orléans). 1st year of a Master's degree (M1 Maths).
+- Tutorials - Probability Theory - 30h. Professor Thierry Cabanal-Duvillard (Université Paris-Cité). 3rd year of a Bachelor's degree (L3 Maths).
+- Tutorials - Analysis - 42h. Professor [Eric Luçon](https://ericluconmath.wordpress.com/) (ex-Université Paris-Cité, now Université d'Orléans). 2nd year of a Bachelor's degree (L2 Maths).
+- Tutorials - Mathematics & Calculus - 90h. Professor [Marcela Szopos](https://helios2.mi.parisdescartes.fr/~mszoposh/) (Université Paris-Cité). 1st year of a Bachelor's degree (L1 Maths).
 
 ### Mathematics at École Nationale de la Statistique et de l'Administration (ENSAE), Palaiseau, France. 2015-2018
 - Tutorials - Functional and convex Analysis - 27h. Professor [Armen Shirikyan](https://shirikyan.u-cergy.fr/) (Cergy Paris Université). 1st year (Maths prom. equivalent to L3/M1). [Material](https://shirikyan.u-cergy.fr/analysefonctionnelleconvexe.pdf).

@@ -8,7 +8,7 @@ full-width: false
 
  
 ## Scientific articles
-- S. Girard and C. Pakzad (2026). *Functional Extreme Partial Least-Squares*. Econometrics and Statistics. DOI: 10.1016/j.ecosta.2026.11.001. Code in Python (Jupyter notebook) available [here](https://cpakzad.github.io/download/FEPLS.zip).
+- S. Girard and C. Pakzad (2026). *Functional Extreme Partial Least-Squares*. Econometrics and Statistics. DOI: [10.1016/j.ecosta.2026.11.001](https://doi.org/10.1016/j.ecosta.2026.11.001). Code in Python (Jupyter notebook) available [here](https://cpakzad.github.io/download/FEPLS.zip).
 - S. Girard and C. Pakzad (2025). *Extreme-PLS with missing data under weak dependence*. Preprint [arXiv:2410.05517](https://arxiv.org/pdf/2511.11338). Code in Python (Jupyter notebook) not available yet.
 - A. Bücher and C. Pakzad (2025). *The empirical copula process in high dimensions: Stute's representation and applications*. Annals of Statistics. DOI: [10.1214/25-AOS2548](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-6/The-empirical-copula-process-in-high-dimensions--Stutes-representation/10.1214/25-AOS2548.short).
 - A. Bücher and C. Pakzad (2024). *Testing for independence in high dimensions based on empirical copulas*. Annals of Statistics. DOI: [10.1214/23-AOS2348](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-1/Testing-for-independence-in-high-dimensions-based-on-empirical-copulas/10.1214/23-AOS2348.short). Preprint version: [arXiv:2204.01803](https://arxiv.org/pdf/2204.01803). Code in Python (Jupyter notebook) available [here](https://cpakzad.github.io/download/Independence_Test.zip).
